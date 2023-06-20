@@ -76,8 +76,7 @@ sections:
         - certificate_url: ''
           date_end: '2022-06'
           date_start: '2021-11'
-          description: |2-
-          I conducted a study on the differences between mid-air target selection and touchscreen target selection that aimed to understand the impact of target position on upper body movement and muscle activity during touchscreen and mid-air gesture interactions. I designed and conducted the study, operated the experiment, and collected and analyzed the data.
+          description: I conducted a study on the differences between mid-air target selection and touchscreen target selection that aimed to understand the impact of target position on upper body movement and muscle activity during touchscreen and mid-air gesture interactions. I designed and conducted the study, operated the experiment, and collected and analyzed the data.
           The study has significant implications for enhancing user experience and reducing physical fatigue during human-computer interaction.
           organization: ''
           organization_url:''
