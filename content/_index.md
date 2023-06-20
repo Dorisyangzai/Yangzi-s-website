@@ -13,7 +13,7 @@ sections:
       username: admin
   - block: experience
     content:
-      title: Education Experience
+      title: 'Education Experience'
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -23,34 +23,38 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Zhejiang University
-          company: Master
+        - title: 'Zhejiang University'
+          company: 'Master'
           company_url: ''
           company_logo: org-gc
-          location: Hangzhou, China
+          location: 'Hangzhou, China'
           date_start: '2021-09'
           date_end: ''
           description: |2-
               * GPA: 88
               * Major: Industrial Design in the Department of Computer Science and Technology
               * Research Area: Human-computer Interaction and Human Factors Engineering with Prof. HUANG Jinghua
-              * Main Courses: Ergonomist and User Behavior, Service Design, Affective Computing, Design Mathematics, Design Informatics, Big Data in Design, Style Transfer
+              * Main Courses: Ergonomist and User Behavior, Service Design, Affective Computing, Design Mathematics, Design Informatics, Big Data in Design, Style Transfer.
               
               
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: 'Nanjing Forestry University'
+          company: 'Bachelor'
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: 'Nanjing, China'
+          date_start: '2016-09'
+          date_end: '2020-06'
+          description: |2-
+              * GPA: 85(top 15%)
+              * Major: Environmental Design in the Department of Arts and Design
+              * Main Courses: Urban landscape design, Architectural design, design composition, and the application of plant landscaping.
+    
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Research Experience'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -60,23 +64,43 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2022-09'
+          description: |2-
+          organization: ''
+          organization_url: ''
+          title: Differences between touchscreen and mid-air interactions when using two fingers on a tablet
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
+    
+        - certificate_url: ''
+          date_end: '2022-06'
+          date_start: '2021-11'
+          description: |2-
+          I conducted a study on the differences between mid-air target selection and touchscreen target selection that aimed to understand the impact of target position on upper body movement and muscle activity during touchscreen and mid-air gesture interactions. I designed and conducted the study, operated the experiment, and collected and analyzed the data.
+          The study has significant implications for enhancing user experience and reducing physical fatigue during human-computer interaction.
+          organization: ''
+          organization_url:''
+          title: The effect of target position in two interactive input modalities
+          url: ''
+    
+        - certificate_url: ''
+          date_end: '2022-11'
+          date_start: '2021-07'
+          description: ''
+          organization: 
+          organization_url: https://www.datacamp.com
+          title: Asia Campus Design Workshop
+          url: ''
+         - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
+          url: ''
+       - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
