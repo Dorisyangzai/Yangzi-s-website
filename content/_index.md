@@ -3,8 +3,6 @@
 title:
 date: 2022-10-24
 type: landing
-
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
     design:
       background:
         gradient_end: '#1976d2'
